@@ -11,17 +11,17 @@ pierre.lafaye-de-micheaux@univ-montp3.fr
   => 24 novembre matin
 - __COURS 3__ Les bases de `numpy` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lafaye-UPV/V3DMI5/blob/master/colabs/3_numpy.ipynb)    
   => 26 novembre matin
-
+  
 
 ## Travaux pratiques
 
 Chaque cours est accompagné d'un TP, pour lequel __vous devrez remettre un compte rendu__, sous forme numérique, selon __une procédure expliquée en fin du cours 1__.
 
 Voici les sujets des TPs:
-* __TP 1__ Introduction à `pandas` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lafaye-UPV/V3DMI5ensional-compte-rendus/blob/master/TP1_pandas.ipynb)  
+* __TP 1__ Introduction à `pandas` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lafaye-UPV/V3DMI5/blob/master/colabs/TP1_pandas.ipynb)  
   => 19 novembre aprèm + 20 novembre aprèm
  
-* __TP 2__ Utilisation et visualisation d'ACP avec `scikit-learn` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lafaye-UPV/V3DMI5ensional-compte-rendus/blob/master/TP2_sklearn.ipynb)  
+* __TP 2__ Utilisation et visualisation d'ACP avec `scikit-learn` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lafaye-UPV/V3DMI5/blob/master/colabs/TP2_sklearn.ipynb)  
   => 25 novembre matin + 25 novembre aprèm
 
 * __TP 3__ _TP noté_: une ACP en `numpy` [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lafaye-UPV/V3DMI5/blob/master/colabs/TP3_numpy.ipynb)  
