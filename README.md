@@ -31,3 +31,5 @@ Voici les sujets des TPs:
 pendant les créneaux consacrés aux TPs, vous êtes libres de prendre de l'avance sur les TPs suivants, ou de retravailler sur les TPs précédents
 
 ---
+
+Credit: Ce cours a initialement été créé par Antoine Liutkus
